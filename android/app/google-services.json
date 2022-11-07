@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "740325107228",
+    "project_id": "progressable-8d64d",
+    "storage_bucket": "progressable-8d64d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740325107228:android:26f37fde467a75749121d9",
+        "android_client_info": {
+          "package_name": "com.shabaj.uk.progressable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740325107228-9imuvkn47s081qhkvpgt9666go40egp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiw7uhnqlp97V_pyxpAcqXnRiDuIETzt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740325107228-9imuvkn47s081qhkvpgt9666go40egp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740325107228-7g5n4jhq95hgh87u970urhcbdsho6gro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shabaj.uk.progressable"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
